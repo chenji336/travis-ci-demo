@@ -108,7 +108,7 @@ your `.travis.yml` file should look like this:
 
 ```yml
 language: node_js
-versions:
+node_js:
   - '10'
 ```
 
